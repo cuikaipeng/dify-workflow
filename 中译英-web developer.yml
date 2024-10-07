@@ -6,7 +6,7 @@ app:
   name: 中译英程序员
   use_icon_as_answer_icon: false
 kind: app
-version: 0.1.2
+version: 0.0.1
 workflow:
   conversation_variables: []
   environment_variables: []
